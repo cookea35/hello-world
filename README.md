@@ -1,3 +1,3 @@
 # hello-world
-Test
-Austin, Third Year Computer Science at the U of M
+Austin, Third Year Comp-Sci student
+
