@@ -1,3 +1,3 @@
-# hello-world
-Austin, Third Year Comp-Sci student
+# My Portfolio
+Future home of my portfolio site.
 
